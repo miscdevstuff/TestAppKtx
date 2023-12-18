@@ -55,7 +55,7 @@ dependencies {
     implementation(platform("androidx.compose:compose-bom:2022.12.00"))
 
     implementation("androidx.compose.ui:ui-graphics")
-    implementation("androidx.core:core-ktx:1.8.0")
+    implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.3.1")
     implementation("androidx.compose.material3:material3")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
